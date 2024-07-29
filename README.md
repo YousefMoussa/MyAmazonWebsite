@@ -79,9 +79,6 @@ To run this project locally, follow these steps:
 - **Product Reviews**: Allow users to leave reviews and ratings for products.
 - **Payment Integration**: Integrate with a payment gateway for processing payments.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgements
 
