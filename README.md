@@ -82,7 +82,10 @@ To run this project locally, follow these steps:
 
 ## Acknowledgements
 
-This project is inspired by Amazon's website and is created for educational purposes.
+- This project is inspired by Amazon's website and is created for educational purposes.
+- Icons and images used in this project are sourced from various online resources.
+- Fonts are provided by Google Fonts.
+- This project is for educational purposes and is not affiliated with or endorsed by Amazon.
 
 ---
 
