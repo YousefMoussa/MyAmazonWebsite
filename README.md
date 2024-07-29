@@ -71,13 +71,13 @@ To run this project locally, follow these steps:
 - **Checkout Process**: Review and finalize orders, choose delivery options, and view payment summary.
 - **Order Tracking**: Track the delivery status of orders.
 - **Responsive Design**: The site is responsive and works well on different screen sizes.
+- **Order History**: Allow users to view their order history and details.
 
 ## Future Improvements
 
 - **User Authentication**: Implement user login and registration.
 - **Product Reviews**: Allow users to leave reviews and ratings for products.
 - **Payment Integration**: Integrate with a payment gateway for processing payments.
-- **Order History**: Allow users to view their order history and details.
 
 ## License
 
